@@ -1,0 +1,17 @@
+[
+    {
+      "title": "Test Event",
+      "description": "This is a WebSocket notification test",
+      "time": "2024-12-03T10:29:00Z",
+      "notified": false,
+      "logged": false
+    },
+    {
+      "title": "Meeting",
+      "description": "Team meeting to discuss project updates",
+      "time": "2024-12-03T10:35:00Z",
+      "notified": false,
+      "logged": false
+    }
+  ]
+  
